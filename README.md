@@ -1,9 +1,5 @@
 # my-first-repo
 
-Dit
-
-ben
-
-ik
+Dit ben ik
 
 ![Manon Schüle](profielfoto.jpg)
