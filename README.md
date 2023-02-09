@@ -5,3 +5,5 @@ Dit
 ben
 
 ik
+
+![Manon Schüle](profielfoto.jpg)
